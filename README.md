@@ -1,4 +1,4 @@
-# cas-tgt-checker
+# cas-service-ticket
 A Node module that creates/checks CAS service tickets.
 This module allows you to generate CAS service tickets. It also allows you to check whether a CAS
 service ticket is valid or not.
