@@ -1,0 +1,19 @@
+{
+  "name": "cas-service-ticket",
+  "version": "1.0.0",
+  "description": " A Node module that creates/checks CAS service tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strukt93/cas-service-ticket.git"
+  },
+  "author": "Mustafa Hasan <strukt93@gmail.com> (http://strukt.rocks)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/strukt93/cas-service-ticket/issues"
+  },
+  "homepage": "https://github.com/strukt93/cas-service-ticket#readme"
+}
