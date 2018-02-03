@@ -32,5 +32,5 @@ This function does not check the validity of the supplied Ticket Granting Ticket
 
 The `validateST()` function takes the CAS URL, service URL, Service Ticket, and callback function as input and calls the callback
 function with either `(bool, JSON)`, where bool reflects the validity of the supplied Service Ticket with either `true` or `false`,
-and JSON is the returned JSON response from the server. If bool is false (ticket is invalid), an error message is returned instead of the JSON reponse.
+and JSON is the returned JSON response from the server. If bool is `false` for any reason, an error message is returned instead of the JSON response.
 
